@@ -1,0 +1,13 @@
+# Python System
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (CRITICAL - Do not upload!)
+venv/
+.env
+
+# Dataset (CRITICAL - Too big!)
+data/
+
+# Mac System Files
+.DS_Store
